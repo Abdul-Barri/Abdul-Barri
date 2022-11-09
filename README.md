@@ -8,7 +8,7 @@ I'm a Software Engineer, currently learning Cloud DevOps at AltSchool Africa [Sc
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, NodeJS and Python.
+- 🌱 I’m currently learning Docker, AWS, GCP, Cloud Formation, Kubernetes, Linux & Bash Scripting, Ansible, JavaScript, NodeJS and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud DevOps (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1Di7obXDnkbhW6sJH58ZXFON5UXXsjb8N/view?usp=sharing) and contact me by emailing lawalabdulbarri@gmail.com.
