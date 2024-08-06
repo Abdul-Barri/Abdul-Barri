@@ -8,9 +8,9 @@ I'm a DevOps Engineer. I'm passionate about sharing knowledge, documentation, we
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm A graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently mastering best practices of Docker, AWS, GCP, Cloud Formation, Terraform, Kubernetes, Linux & Bash Scripting, Ansible, JavaScript, NodeJS and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Cloud DevOps (Intern or Junior level).
+- 🌱 I’m currently mastering best practices of Docker, AWS, GCP, Azure, CloudFormation, Terraform, Kubernetes, Linux & Bash Scripting, Ansible, JavaScript and Python.
+- 😊 I’m looking for open source projects and challenging opportunities.
+- 💼 Job interests: Cloud DevOps (Mid or Senior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1Di7obXDnkbhW6sJH58ZXFON5UXXsjb8N/view?usp=sharing) and contact me by emailing lawalabdulbarri@gmail.com.
 
 ---
